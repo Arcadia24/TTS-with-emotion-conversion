@@ -1,6 +1,8 @@
 # TTS-with-emotion-conversion
 Text-to-speech using emotion conversion for more immersion into theatre piece. This repo will be implemented soon in [GOSAI](https://github.com/GOSAI-DVIC). The goal is too use the audio created by this program in an application to train for theatre when a comadian is not there. For more realisme we want to put emotion characteristic. 
 
+[Image](theatre.png)
+
 ## Overview
 This project leverages advanced voice conversion technologies to bring life to theatrical scripts. Using the [Coqui.ai library](https://github.com/coqui-ai/TTS) for voice synthesis and the [FAIRSEQ emotion conversion tool](https://github.com/facebookresearch/fairseq/tree/main/examples/emotion_conversion), this system transforms written scripts into expressive, character-specific audio files.
 
