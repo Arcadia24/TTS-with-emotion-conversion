@@ -1,0 +1,557 @@
+idx,type,character,sentence,j-hartmann/emotion-english-distilroberta-base,SamLowe/roberta-base-go_emotion,michellejieli/emotion_text_classifier
+,speech,Madison,No!,anger,disapproval,anger
+,consigne,,"Surprised, Alexandre jumps up and points his gun at Madison.",,,
+,speech,Alexandre,One move and you're dead!,anger,neutral,anger
+,speech,Madison,Please don't shoot!,fear,neutral,fear
+,speech,Alexandre,Hands up!,joy,neutral,anger
+,consigne,,The young woman immediately raises her arms.,,,
+,speech,Madison,"Calm down, you see, I'm unarmed . Now please put your gun down.",fear,neutral,fear
+,consigne,,"Seeing that the young woman looks harmless, he lowers his gun.",,,
+,speech,Alexandre,What are you doing here? And anyway how did you get in?,surprise,curiosity,surprise
+,speech,Madison,I'll explain everything. Let me catch my breath.,neutral,neutral,neutral
+,speech,Alexandre,But you are crazy! I almost died of a heart attack!,surprise,amusement,surprise
+,speech,Madison,"I'm sorry, the door was ajar and.",sadness,remorse,neutral
+,speech,Alexandre,And you took that as an invitation to come into my house?,surprise,neutral,surprise
+,speech,Madison,"No, but.",neutral,neutral,neutral
+,speech,Alexandre,"What do you want? To rob me? There is nothing of value here, believe me.",anger,curiosity,anger
+,speech,Madison,I'm your neighbor.,neutral,neutral,neutral
+,speech,Alexandre,The neighbor next door? She is eighty years old.,surprise,neutral,surprise
+,speech,Madison,The neighbor across the courtyard.  window on the public side) The window over there is my apartment.,surprise,neutral,neutral
+,speech,Alexandre,Across the courtyard ? It's been vacant for years.,disgust,neutral,surprise
+,speech,Madison,Not anymore.,neutral,disapproval,neutral
+,speech,Alexandre,Alright. So what?,anger,neutral,neutral
+,speech,Madison,"I lost my cat. Haven't you seen her, by any chance. Or even picked her up in your house. If she also entered without being invited.",sadness,sadness,anger
+,speech,Alexandre,"Well no, you see. Your cat seems to be better educated than you, apparently.",disgust,disapproval,neutral
+,consigne,,She seems very upset.,,,
+,speech,Madison,She's been missing for two days. I've put up posters all over the neighborhood with her name and photo. Haven't you seen them?,neutral,curiosity,neutral
+,speech,Alexandre,"I don't go out much. and I never look at those kinds of ads. Besides, I'm not very good at recognizing cats.",neutral,disapproval,neutral
+,consigne,,She takes a few steps into the room.,,,
+,speech,Madison,Tofu! Tofu!,anger,neutral,joy
+,speech,Alexandre,What's gotten into your mind to scream like that? Are you mad?,anger,curiosity,surprise
+,speech,Madison,Her name is Tofu.,neutral,neutral,neutral
+,speech,Alexandre,Your cat's name is Tofu? You must be joking.,neutral,amusement,surprise
+,speech,Madison,Not at all. Why?,surprise,confusion,surprise
+,speech,Alexandre,"Okay, your cat's name is Tofu, and it hasn't come home for two days. It's not that big of a deal, is it?",neutral,neutral,neutral
+,speech,Madison,"Of course it's serious! If I can't find her quickly, he's going to die. She's an indoor cat, you see, she's not meant to live outside in the wilderness.",sadness,neutral,sadness
+,speech,Alexandre,"Well that is quite unfortunate. In my time, cats lived in the countryside, or maybe in a big garden at most. They spent their time chasing mice, and only came back home when they were hungry, so we could feed them, stroke them a little, and let them sleep on the couch.",neutral,sadness,neutral
+,speech,Madison,"I don't eat meat, and neither does my cat.",disgust,neutral,neutral
+,speech,Alexandre,What does it eat then? 4,neutral,neutral,neutral
+,speech,Madison,"Kibbles! Vegetable-based kibbles, like me.",joy,neutral,joy
+,speech,Alexandre,Do you eat kibbles too?,neutral,curiosity,neutral
+,speech,Madison,"Occasionally, yes. Well, not the cat's kibbles, of course.",neutral,neutral,neutral
+,speech,Alexandre,A vegetarian cat. I didn't even know that existed. And that's why it's called Tofu?,surprise,realization,surprise
+,speech,Madison,Yes. and also because he's a bit crazy.,neutral,neutral,neutral
+,speech,Alexandre,"And I suppose not eating meat is its personal choice, of course?",disgust,confusion,anger
+,speech,Madison,"Well, she's never complained, that's for sure.",neutral,approval,neutral
+,speech,Alexandre,"And. do you think now in circuses, tigers and lions are also fed vegetable kibbles?",neutral,curiosity,neutral
+,speech,Madison,"I don't know. Anyway, I'm against animals in circuses.",disgust,disapproval,disgust
+,speech,Alexandre,But not against indoor cats.,neutral,neutral,neutral
+,speech,Madison,I gather you don't have any pets.,neutral,neutral,neutral
+,speech,Alexandre,"No, I hate the concept of pets. And the concept of domestication in general, for that matter.  I myself have remained wild.",disgust,anger,disgust
+,consigne,,"Unimpressed, she looks around the room.",,,
+,speech,Madison,So you haven't seen my cat?,surprise,curiosity,neutral
+,speech,Alexandre,"No, I haven't seen your vegan cat. And if you allow me, I think this absurd conversation has lasted long enough.",disgust,disapproval,disgust
+,consigne,,She suddenly shivers.,,,
+,speech,Madison,Be quiet!,anger,neutral,anger
+,speech,Alexandre,I beg your pardon?,anger,neutral,anger
+,speech,Madison,Didn't you hear any meowing?,surprise,neutral,neutral
+,speech,Alexandre,"Meowing? No, not at all. But you know, I'm starting to become a little deaf. You will see when you reach my age, there are some advantages. Especially when you have noisy neighbors.",neutral,neutral,neutral
+,speech,Madison,"I'm not making any noise, I assure you. In fact, I've been living in the apartment right across from yours for over a month, and you thought it was still vacant.",neutral,approval,neutral
+,speech,Alexandre,"Alright, I didn't notice your presence, and I hope it stays that way. So if you have nothing else to tell me, I suggest you let me get back to my business and go find your cat. 5",neutral,optimism,neutral
+,speech,Madison,"Alright, I won't bother you any longer.",anger,annoyance,neutral
+,speech,Alexandre,Thank you.,neutral,gratitude,neutral
+,consigne,,"She pretends to leave, but then changes her mind.",,,
+,speech,Madison,But. I feel bad leaving you like this.,sadness,sadness,sadness
+,speech,Alexandre,"What do you mean, like this?",surprise,confusion,surprise
+,speech,Madison,"Well. When I arrived, you were.",neutral,neutral,neutral
+,speech,Alexandre,What?,surprise,neutral,surprise
+,speech,Madison,"You didn't seem to be doing well, did you?",surprise,curiosity,surprise
+,speech,Alexandre,What makes you think that?,surprise,curiosity,surprise
+,speech,Madison,You had a gun at your head.,anger,neutral,disgust
+,consigne,,"He looks at the gun he still has it in his hand, surprised.",,,
+,speech,Alexandre,"Ah, that. So what?",surprise,neutral,neutral
+,speech,Madison,"Well.you look a little.depressed, don't you?",sadness,sadness,surprise
+,speech,Alexandre,"Depressed? Listen, miss, when I was your age, the motto of our generation was live fast, die young, and leave a beautiful corpse, does that ring a bell?",neutral,sadness,neutral
+,speech,Madison,James Dean.,neutral,neutral,neutral
+,speech,Alexandre,"We had sex without a condom, we rode motorcycles without helmets, and ingested all sorts of prohibited substances, the exact composition of which, believe me, no one knew. Fifty years later, the few old folks like me who survived that blessed era parade in the streets because they are afraid of getting vaccinated. And you expect me not to be depressed?",neutral,neutral,disgust
+,speech,Madison,I understand.,neutral,approval,neutral
+,speech,Alexandre,"I don't think so, no. But if you're unfortunate enough to live to my age, you'll see. Old age is a shipwreck.",sadness,disapproval,neutral
+,speech,Madison,De Gaulle.,neutral,neutral,neutral
+,speech,Alexandre,Chateaubriand said it before him. But you are right. Aging is going from Rebel Without a Cause to Memoirs from Beyond the Grave.,neutral,approval,neutral
+,speech,Madison,Nicely put.,joy,admiration,neutral
+,speech,Alexandre,"Yes. The problem is that nowadays, young people already behave like old folks.",disgust,approval,neutral
+,speech,Madison,"In every era, youth people wanted to change the world, didn't they? 6",neutral,neutral,neutral
+,speech,Alexandre,"Today, young people don't want to change the world, they just want to save the planet. And it's not looking good.",sadness,disapproval,sadness
+,speech,Madison,"And you, have you succeeded in changing the world?",surprise,curiosity,neutral
+,speech,Alexandre,"No, but at least we will have had a lot of fun.",joy,joy,joy
+,speech,Madison,You don't seem to be laughing much anymore.,neutral,neutral,sadness
+,speech,Alexandre,"Apparently, neither do you. Otherwise you wouldn't be in a relationship with a cat.",neutral,neutral,neutral
+,speech,Madison,At least I'm not alone.,neutral,neutral,neutral
+,speech,Alexandre,And do you seriously think you can save the planet. by feeding that poor carnivore who didn't ask for anything with vegetable kibbles?,anger,curiosity,anger
+,speech,Madison,"I don't know. But to change the world, you have to start by saving the planet, right? What's the point of staging a revolution on the Titanic?",neutral,confusion,neutral
+,speech,Alexandre,"Anyway, I envy all those from my generation who died before the age of thirty. Can you imagine Jimi Hendrix and Janis Joplin in a retirement home, discussing the potential dangers of a vaccine between rounds of Scrabble. I'd rather die than see that.",neutral,neutral,sadness
+,speech,Madison,Come on don't say that.,anger,disapproval,neutral
+,speech,Alexandre,"Unfortunately, literature is not very rock and roll. And most of the time, writers die in their beds.",sadness,disappointment,neutral
+,speech,Madison,Are you a writer?,surprise,curiosity,neutral
+,speech,Alexandre,"That's none of your business. I don't even know why I'm talking about all this with you, I don't know you. And by the way, why are you still here?",surprise,confusion,anger
+,consigne,,He puts the gun away in a drawer.,,,
+,speech,Madison,You could have hurt yourself.,sadness,neutral,fear
+,speech,Alexandre,"I could also have killed you. When you break into someone's house, there's always a risk. I could have claimed self-defense, I wouldn't have even been convicted.  concerned.) Are you okay?",fear,caring,fear
+,speech,Madison,"Excuse me, it'll pass. Do you have a glass of water?",neutral,neutral,neutral
+,consigne,,He hesitates for a moment.,,,
+,speech,Alexandre,"Sit down for a second, I'll get you that.",neutral,neutral,neutral
+,speech,Madison,Thank you.,neutral,gratitude,neutral
+,consigne,,He leaves. She immediately comes back to life and takes the opportunity to lookShe takes the glass and drinks it all in one gulp.,,,
+,speech,Madison,"Yes, thank you.",neutral,gratitude,neutral
+,consigne,,He makes an effort to soften up a bit.,,,
+,speech,Alexandre,I'm sorry for receiving you like this. I'm not used to having visitors anymore.,sadness,remorse,sadness
+,speech,Madison,So you live alone too?,sadness,curiosity,neutral
+,speech,Alexandre,Does that look obvious?,surprise,curiosity,neutral
+,speech,Madison,"Based on what you just told me, I assume you don't have children either.",neutral,neutral,neutral
+,speech,Alexandre,What makes you think that I don't have children?,surprise,curiosity,surprise
+,speech,Madison,Do you have any?,neutral,curiosity,neutral
+,speech,Alexandre,"No. And when I see the world today, I'm glad I don't have any.",joy,joy,joy
+,speech,Madison,Madison –Yes.,neutral,neutral,neutral
+,speech,Alexandre,"If we want to save the planet, we should start by avoiding making children, shouldn't we?",neutral,neutral,neutral
+,speech,Madison,At the same time. is it by stopping having children that we will save humanity?,neutral,curiosity,sadness
+,speech,Alexandre,"And when you think that France is probably the best country to live in, worldwide.",neutral,neutral,neutral
+,speech,Madison,"Yes, that's why I decided to come and settle in your country.",neutral,approval,neutral
+,speech,Alexandre,You are not French?,surprise,neutral,surprise
+,speech,Madison,My name is Madison. I am American.,neutral,neutral,neutral
+,speech,Alexandre,"Yet you speak our language fluently, and without any accent.",neutral,admiration,neutral
+,speech,Madison,My grandmother was French. She taught me the language of Molière. I came to Paris to study literature at the Sorbonne.,joy,neutral,neutral
+,speech,Alexandre,So it's just a coincidence that I find you today on my way to Madison.,surprise,surprise,neutral
+,speech,Madison,"Your name is Alexandre, isn't it? 8",neutral,curiosity,neutral
+,speech,Alexandre,How do you know?,surprise,curiosity,surprise
+,speech,Madison,I saw your name on the mailbox downstairs. Alexandre Delacroix. Are you related to.,neutral,neutral,neutral
+,speech,Alexandre,The painter? No not at all.,neutral,disapproval,neutral
+,speech,Madison,The writer!,surprise,neutral,surprise
+,speech,Alexandre,You are American and you know Alexandre Delacroix. whom no body in France remembers anymore.,neutral,neutral,neutral
+,speech,Madison,"You're exaggerating. Everyone knows Alexandre Delacroix. And his fame has gone far beyond the borders of France. Among those who are interested in literature, at least. So ?",neutral,neutral,neutral
+,speech,Alexandre,Yes. It is me.,neutral,neutral,neutral
+,speech,Madison,"No? Alexandre Delacroix, that mythical author who has signed several masterpieces in the 20th-century literature!",surprise,neutral,surprise
+,speech,Alexandre,If you say so.,neutral,neutral,neutral
+,speech,Madison,"A mysterious writer who now lives as a recluse, who hasn't published anything for years, and who refuses all interviews. Is that really you?",surprise,confusion,surprise
+,speech,Alexandre,"Something tells me that you already knew that before breaking into my house by forcing my door, am I wrong?",anger,confusion,neutral
+,consigne,,She hesitates for a moment.,,,
+,speech,Madison,"No, I admit it.",disgust,approval,neutral
+,speech,Alexandre,So you made up this story about a cat to try to get an interview.,neutral,neutral,neutral
+,speech,Madison,"It's true about the cat, I swear. But it's also true that when I moved in just across your home, I had an idea in mind.",neutral,approval,neutral
+,speech,Alexandre,Did you deliberately rent an apartment opposite mine just to spy on me?,anger,curiosity,surprise
+,speech,Madison,"Spy on you? Not at all! I am a great admirer of your work. When I arrived in Paris, I tried to reach out to you. But your agent told me that you didn't want to see anyone.",anger,admiration,anger
+,speech,Alexandre,And what part of that sentence didn't you understand?,surprise,confusion,surprise
+,speech,Madison,"I crossed the Atlantic in the hope of meeting you. I was looking for an apartment, and the one across from yours was available for rent, so I jumped at the opportunity. 9",joy,desire,neutral
+,speech,Alexandre,"You are completely insane! I'm warning you, if you don't leave me alone, I'll file a harassment complaint. And what do you expect from me, anyway? Are you a journalist?",anger,anger,anger
+,speech,Madison,"I'm a student, as I told you. I wrote my master's thesis on your work in New York. And then I decided to come to Paris to continue my research, since this city is the setting for most of your novels. You know, for Americans, Paris is the most romantic city in the world.",neutral,approval,neutral
+,speech,Alexandre,"And with a cliché like that, you think you can shed light on the hidden meaning of my work?",neutral,curiosity,neutral
+,speech,Madison,Do you want to know the title of my thesis?,neutral,curiosity,neutral
+,speech,Alexandre,No.,neutral,neutral,neutral
+,speech,Madison,"""The figure of absence in the fictional universe of Alexandre Delacroix.""",neutral,neutral,neutral
+,speech,Alexandre,"You've got it all figured out. What I like most about most people, including you, is their absence. That's why I'm asking you to leave.",neutral,love,neutral
+,speech,Madison,"When you have the chance to work on a living author, you want to meet him, it's normal. To know him a little better. And by knowing about his life, it provides a better understanding of his work.",neutral,neutral,neutral
+,speech,Alexandre,"It's a mistake, I assure you. It's better to be content with studying the work while ignoring everything about the author. Many great writers were very small characters in life. If they weren't complete assholes. And that goes either artists or scientists. That's how it is. Geniuses rarely benefit from being known. Even though, I don't consider myself a genius.",neutral,annoyance,neutral
+,speech,Madison,"I understand your modesty, but still. An exclusive interview with the author of ""Chronicles of the Latin Quarter"" would be the crowning achievement of my research.",neutral,admiration,neutral
+,speech,Alexandre,Have you read it?,neutral,curiosity,neutral
+,speech,Madison,It's this novel that convinced me to come and study in Paris. I consider it as your best book.,joy,admiration,joy
+,speech,Alexandre,"However, it is not the best-selling.",neutral,disapproval,neutral
+,speech,Madison,I imagine this novel is largely autobiographical.,neutral,neutral,neutral
+,speech,Alexandre,I told you. It has no interest for the reader.,disgust,neutral,neutral
+,speech,Madison,Not to mention that mysterious manuscript you've been working on for years.,neutral,neutral,neutral
+,speech,Alexandre,"I don't write anything at all. It is a legend maintained by my publisher so that I am not completely forgotten, and my old books continue to 10 sell a bit. Anyway, I will not give any interview. Not to you or anyone else.  approaches her with a threatening look.) Now get out!",fear,neutral,anger
+,consigne,,"Instead of leaving, she stands her ground.",,,
+,speech,Madison,No!,anger,disapproval,anger
+,consigne,,He seems surprised at her determination.,,,
+,speech,Alexandre,"What do you mean, no?",surprise,confusion,surprise
+,speech,Madison,I won't let you commit suicide before granting me this interview. I could have swum across the Atlantic to get it!,anger,neutral,anger
+,speech,Alexandre,"Go back where you came from on your pedalo if you wish, it's not my problem.",neutral,neutral,neutral
+,consigne,,She is on the verge of fainting again.,,,
+,speech,Alexandre,"It's the second time you've fainted in front of me. You read too many romance novels, miss. Nowadays, besides in plays, women don't faint like that at any moment just because they're contradicted.",neutral,neutral,sadness
+,speech,Madison,"I'm not pretending, I assure you.",neutral,approval,neutral
+,consigne,,He seems to hesitate.,,,
+,speech,Alexandre,Do you want me to call an ambulance?,fear,curiosity,fear
+,speech,Madison,"No, but I need to sit down for a moment.",neutral,neutral,neutral
+,speech,Alexandre,And then you will leave?,neutral,neutral,neutral
+,speech,Madison,I promise.,neutral,neutral,neutral
+,consigne,,She sits up and catches her breath.,,,
+,speech,Alexandre,I already gave you a glass of water. Do you want a glass of brandy?,neutral,neutral,neutral
+,speech,Madison,"Are you trying to finish me off, is that it?",anger,curiosity,surprise
+,speech,Alexandre,"It's too late, unfortunately. I should have shot you right away, I would have pleaded self-defense. Now I can no longer deny premeditation.",sadness,disappointment,fear
+,speech,Madison,Why do you keep a gun at home?,anger,curiosity,surprise
+,speech,Alexandre,"Initially, it was to ward off intruders. Apparently, it's not enough.",neutral,neutral,neutral
+,speech,Madison,"Even if you are a bit misanthropic, like many writers. We all need friendship, don't we?",neutral,curiosity,neutral
+,speech,Alexandre,"I have a feeling that you are going to suggest that I get a cat. Do you want to get rid of yours, is that it? 11",neutral,neutral,disgust
+,speech,Madison,Doesn't loneliness weigh on you at all?,neutral,curiosity,neutral
+,speech,Alexandre,"Loneliness. It's like coffee. At first, it's a little bitter. Then you get used to it. After that, you develop a taste for it. And finally, we can't do without it.",disgust,sadness,neutral
+,speech,Madison,You should write a collection of aphorisms. I'm sure it would sell very well.,neutral,approval,neutral
+,speech,Alexandre,"And then what is it, not being alone? Living as a couple and rehashing the same banalities year after year? Seeing family or friends from time to time, carefully avoiding any important topics that could cause conflict? Running into neighbors in the stairwell and discussing the weather? Talking to your cat as if it understands you?",neutral,neutral,neutral
+,speech,Madison,"Yet, when you write, however, you are addressing someone.",neutral,neutral,neutral
+,speech,Alexandre,That's exactly why I stopped writing.,sadness,neutral,sadness
+,speech,Madison,I don't believe you.,anger,disapproval,surprise
+,speech,Alexandre,I'm not asking you to believe me. I'm asking you to leave me alone.,fear,neutral,anger
+,speech,Madison,So you don't want to grant me this interview?,anger,curiosity,surprise
+,speech,Alexandre,"I have nothing left to say. Worse yet, I have no one left to talk to. And there are days when I don't even feel like talking to myself.",disgust,disappointment,sadness
+,speech,Madison,That's sad.,sadness,sadness,sadness
+,speech,Alexandre,"That's life. And in one way or another, mine is coming to an end.",sadness,sadness,sadness
+,speech,Madison,"Mine might be too, perhaps.",neutral,neutral,neutral
+,speech,Alexandre,You are forty years younger than me. I could be your father.,neutral,neutral,neutral
+,speech,Madison,Or even my grandfather.,neutral,neutral,neutral
+,speech,Alexandre,"Thank you for this precision, it is very kind of you. Nevertheless, your life is just beginning.",neutral,gratitude,neutral
+,speech,Madison,Yes. But it could end soon.,sadness,approval,sadness
+,speech,Alexandre,What do you mean?,surprise,confusion,surprise
+,speech,Madison,I have a heart disease. Doctors have given me only a few years to live. Maybe just a few months. That's why I came to France to fulfill one last dream. To meet you.,sadness,desire,neutral
+,consigne,,He is obviously shaken by this outing.,,,
+,speech,Alexandre,What do you mean by heart disease?,surprise,confusion,neutral
+,speech,Madison,I was born with a heart defect. My heart is too fragile. It could fail at any moment.,fear,sadness,neutral
+,speech,Alexandre,And is that the reason for your moments of weakness?,neutral,curiosity,neutral
+,speech,Madison,"At the slightest upset, my heart races, and it can stop beating.",sadness,sadness,neutral
+,consigne,,He hesitates for a moment.,,,
+,speech,Alexandre,Don't tell me you made up this story to force me not to upset you. and thus to accept this interview.,neutral,annoyance,anger
+,speech,Madison,"Unfortunately, no.",sadness,disappointment,sadness
+,speech,Alexandre,I'm sorry for you.,sadness,remorse,sadness
+,speech,Madison,It's not your fault.,neutral,approval,neutral
+,speech,Alexandre,"No, but what an irony. I'm old, I don't have any desires left, I'm considering ending it. You're young, you have your whole life ahead of you, and it's your heart that betrays you.",neutral,disapproval,sadness
+,speech,Madison,"I can't change it, so what's the point of rebelling?",neutral,curiosity,neutral
+,speech,Alexandre,"And on top of that, you're still smiling.",joy,joy,neutral
+,speech,Madison,I tell myself that the remaining months of my life might be the most beautiful ones in my existence.,joy,admiration,joy
+,speech,Alexandre,Your joy of life depresses me. Do you ever doubt?,joy,sadness,joy
+,speech,Madison,I don't have time for doubt anymore. That's why I forced your door.,fear,neutral,neutral
+,consigne,,A pause.,,,
+,speech,Alexandre,And there is really no hope?,surprise,confusion,sadness
+,speech,Madison,"Yes, a transplant. Still I need to find a donor.",sadness,neutral,neutral
+,speech,Alexandre,"I could offer you my heart, I no longer have any use for it. I commit suicide, and I donate my organs to you.",sadness,sadness,sadness
+,speech,Madison,"I'm afraid it's not that simple. Especially for a heart. It's not like these organs that we have in pairs. The kidneys, the lungs.",fear,fear,neutral
+,speech,Alexandre,The testicles.,neutral,neutral,neutral
+,speech,Madison,"For the heart, the donor has to be brain dead.",sadness,neutral,neutral
+,speech,Alexandre,"Brain dead? Sometimes I wonder if I am not already there. Like many people around me, actually. 13",surprise,surprise,surprise
+,speech,Madison,"The donor has to be deceased, his heart in good shape, and the organ must be removed quickly. Unfortunately, that rarely happens. And the waiting list for organ transplants is very long.",sadness,neutral,neutral
+,speech,Alexandre,"I heard that in China, they take organs from death row inmates. It's much more convenient, obviously. They set the transplantation date and execute the inmate on the same day.",neutral,neutral,neutral
+,speech,Madison,But that's terrible.,fear,fear,sadness
+,speech,Alexandre,"Yes, but that way. the recipient has enough time to leisurely fly in from Europe or the United States. Some even take the opportunity to do some sightseeing. Of course, it's not free. I don't know how much a heart costs in China. Have you looked into it?",neutral,confusion,neutral
+,speech,Madison,No.,neutral,neutral,neutral
+,speech,Alexandre,You should be able to find that easily on the internet.,neutral,neutral,neutral
+,speech,Madison,Thank you.,neutral,gratitude,neutral
+,speech,Alexandre,"I'm sorry, I shouldn't joke about it. especially not with you. But then again, humor is all we have left, isn't it?",neutral,remorse,neutral
+,speech,Madison,Yes.,neutral,neutral,neutral
+,speech,Alexandre,Even though what I just told you is anything but a joke.,neutral,amusement,neutral
+,speech,Madison,"I would rather die than live with the heart of a death row guy, even yours. So?",neutral,neutral,neutral
+,speech,Alexandre,So what?,surprise,neutral,neutral
+,speech,Madison,Will you be cruel enough to let me go without fulfilling my dream?,anger,curiosity,anger
+,speech,Alexandre,"You are quite stubborn, aren't you.",anger,neutral,neutral
+,speech,Madison,I'll take that as a compliment.,neutral,admiration,neutral
+,speech,Alexandre,But how do I know you're not lying?,surprise,confusion,surprise
+,speech,Madison,Who would make up such a story? Just to get an interview with a writer that everyone has already forgotten.,surprise,curiosity,surprise
+,speech,Alexandre,You finally admit that everyone has already forgotten Alexandre Delacroix.,neutral,neutral,neutral
+,speech,Madison,So is that a yes?,neutral,curiosity,neutral
+,speech,Alexandre,As soon as you show me a medical file to prove you are not lying.,anger,neutral,neutral
+,speech,Madison,"Sorry, I don't have it with me.",sadness,remorse,sadness
+,speech,Alexandre,You live just across the courtyard. Go get it. 14,neutral,neutral,neutral
+,speech,Madison,"I thought you could take my word for it. I must say, I am a little disappointed.",sadness,disappointment,neutral
+,speech,Alexandre,"If I grant you this interview, it is just the beginning, believe me. I am a very disappointing person, you will see. She gets up and looks around the room. Her gaze falls on an old typewriter.",disgust,disappointment,neutral
+,speech,Madison,Do you still write on a typewriter?,surprise,curiosity,neutral
+,speech,Alexandre,It is indeed on this machine that I wrote all my novels. But don't try to trap me. I told you that I haven't written for years.,neutral,neutral,neutral
+,speech,Madison,Why?,surprise,neutral,surprise
+,speech,Alexandre,"Words are like banknotes, if you put too many of them in circulation, they lose their value. Look at what's happening on social media today. Everyone is sharing their little thoughts ten or twenty times a day. On every topic. An inflation of fake currency that has devalued the real one. Words no longer mean anything.",neutral,neutral,disgust
+,speech,Madison,"You can't stop people from chatting. Before, it was at the café, today it's on Facebook. But there will always be great authors, like you.",neutral,admiration,neutral
+,speech,Alexandre,Great authors are no longer read. They are quoted. Incorrectly and indiscriminately. The same quotes repeated over and over until they are completely emptied of meaning. Copy and paste has replaced thinking. and emojis have replaced emotions.,neutral,disapproval,neutral
+,speech,Madison,May I quote you in the conclusion of my thesis?,neutral,curiosity,neutral
+,speech,Alexandre,"I will be accused of elitism. They'll say that only a select few have the right to express themselves, and that the rest should just keep quiet and listen. That's not true. I believe we should all be quiet.",neutral,disapproval,anger
+,speech,Madison,What do you suggest? A minute of silence ?,neutral,curiosity,neutral
+,speech,Alexandre,Not just a minute. A whole year. A century. A millennium of silence. Maybe then our words would regain meaning after the verbal diarrhea that has flooded social media in recent years.,neutral,neutral,neutral
+,speech,Madison,"It's an interesting analysis, but it's also said that you stopped writing because of a broken heart?",sadness,curiosity,surprise
+,speech,Alexandre,People say what we want.,neutral,neutral,neutral
+,speech,Madison,But you don't deny it either.,anger,neutral,neutral
+,speech,Alexandre,That doesn't mean it's true.,neutral,disapproval,neutral
+,consigne,,She picks up the photo on the desk.,,,
+,speech,Madison,Who is this woman in the photo? 15,surprise,curiosity,surprise
+,speech,Alexandre,That's none of your business.,neutral,disapproval,neutral
+,speech,Madison,She's beautiful.,neutral,admiration,joy
+,speech,Alexandre,"Even if you are really sick, it doesn't give you the right to pry into my private life.",joy,neutral,neutral
+,speech,Madison,I immediately noticed that portrait when I entered your place earlier. and I had the feeling that I recognized that face.,surprise,realization,joy
+,consigne,,"He takes the photo from her and looks at it, before putting it back.",,,
+,speech,Alexandre,She is a woman I loved a very long time ago.,joy,love,neutral
+,speech,Madison,When you were a hippie?,surprise,curiosity,surprise
+,speech,Alexandre,"Actually, I wasn't much of a hippie. I was open to new ideas. And I smoked a joint from time to time. But I took care of my health and already thought about my career. You need a certain comfort to write, you know? To become a great writer, sometimes you have to remain a little bourgeois.",neutral,caring,neutral
+,speech,Madison,And her?,surprise,neutral,surprise
+,speech,Alexandre,She was a free woman. She only thought about the present moment. She lived day to day.,neutral,neutral,neutral
+,speech,Madison,Where did you meet her?,neutral,curiosity,neutral
+,speech,Alexandre,"In the courtyard. She lived in the apartment across from mine. The one you're staying in now. Well, she shared it with friends passing by. People who came from all over the world. Musicians, artists. That apartment was a bit like Maxime Le Forestier's Maison Bleue. The door was always open.",neutral,neutral,neutral
+,speech,Madison,"And since the door was open, one day she took the opportunity to leave. Like my cat.",neutral,neutral,neutral
+,speech,Alexandre,"She wanted to go around the world, live new experiences, meet new people. The traditional couple, at that time, was not really our ideal life. Anyway, it wasn't hers.",neutral,neutral,sadness
+,speech,Madison,But she loved you.,sadness,love,sadness
+,speech,Alexandre,"Yes. In her own way, I think. Even if she didn't love only me.",neutral,approval,neutral
+,speech,Madison,Free love.,neutral,love,neutral
+,speech,Alexandre,"We didn't want to look like our parents, and we were right. But we didn't really know what else to invent. Something that could last a little. We lived in the present moment. We didn't plan to grow old. And indeed, those who didn't die before thirty have aged very badly. Have you ever met an old beatnik? It's not a pretty sight, I assure you.",neutral,disappointment,sadness
+,speech,Madison,"So, you let her continue her journey alone. 16",neutral,neutral,neutral
+,speech,Alexandre,"I couldn't hold her back. and I had no right to. One beautiful morning, she left.",sadness,admiration,sadness
+,speech,Madison,Where to?,neutral,neutral,neutral
+,speech,Alexandre,"Afghanistan. It sounds surreal today, but at that time, it was a very popular destination for hippies. Hashish was freely available and very cheap. By working here for a year, you could live there for a year. And then there was this fascination for the East. For hippies in France, Afghanistan was a paradise.",surprise,approval,neutral
+,speech,Madison,But you stayed.,neutral,neutral,neutral
+,speech,Alexandre,I was already thinking about my future. And I understood that my future was not in Afghanistan.,neutral,realization,sadness
+,speech,Madison,You could have gone with her anyway. For love.,neutral,love,neutral
+,speech,Alexandre,Of course. And she probably would have let me go with her. But her dream wasn't a romantic trip. Even less a honeymoon. Asia was an initiatory journey. One that you did with others. Far from the bourgeois patterns of love between two people.,neutral,neutral,neutral
+,speech,Madison,So you stayed in Paris. but you never forgot her.,sadness,neutral,neutral
+,speech,Alexandre,"I hoped she would come back one day, or at least send me a sign. A postcard. But I never saw her again.",sadness,optimism,sadness
+,speech,Madison,Didn't you try to find her?,anger,neutral,neutral
+,speech,Alexandre,"The Internet didn't exist yet. When someone chose to disappear from your life, they really disappeared. And then the years passed.",neutral,neutral,neutral
+,speech,Madison,You could try to find her now.,neutral,neutral,neutral
+,speech,Alexandre,"What's the point? She might be dead now. Or maybe she's married, has five kids, and weighs 120 kilos.",neutral,confusion,neutral
+,speech,Madison,"Or maybe she's alive, she's still a beautiful woman, and she sometimes thinks of you.",neutral,admiration,neutral
+,speech,Alexandre,"In doubt, I prefer not to know. and keep the image of that beautiful young woman you see in this photo. Can you imagine the shock, forty years later? We don't see ourselves aging, but we see others aging very well, believe me.",surprise,admiration,neutral
+,speech,Madison,I'm not sure that I will see myself aging.,neutral,confusion,neutral
+,speech,Alexandre,"Sorry, I shouldn't have said that.",sadness,remorse,neutral
+,consigne,,A pause.,,,
+,speech,Madison,Didn't you hear meowing? 17,surprise,neutral,neutral
+,speech,Alexandre,No. Still not.,neutral,disapproval,neutral
+,speech,Madison,Maybe she's hiding somewhere here.,neutral,neutral,neutral
+,speech,Alexandre,I hope not.,neutral,optimism,neutral
+,speech,Madison,"Promise me that if I die, you'll take care of my cat.",neutral,caring,neutral
+,speech,Alexandre,"But come on, you're not going to die! And besides, your cat will probably die before you. Well, I think. How long do cats live?",anger,curiosity,neutral
+,speech,Madison,About fifteen years.,neutral,neutral,sadness
+,speech,Alexandre,How old is yours?,neutral,curiosity,neutral
+,speech,Madison,Two.,neutral,neutral,neutral
+,speech,Alexandre,"Let me remind you that when you entered here, I had a gun to my head.",anger,neutral,anger
+,speech,Madison,"Exactly, that would give you a reason not to commit suicide.",neutral,approval,neutral
+,speech,Alexandre,"If I had to feed a cat with vegetable kibbles and change its litter every day, you mean?",disgust,neutral,disgust
+,speech,Madison,"If you had to take care of someone, yes. If someone cared about you, needed you, waited for you at home when you come home in the evening.",neutral,caring,neutral
+,speech,Alexandre,"Wait for me? I hardly ever leave my house, especially not in the evening.",neutral,neutral,neutral
+,speech,Madison,"Did you really want to end your life earlier, or was it a cry for help?",sadness,curiosity,sadness
+,speech,Alexandre,"Anyway, I don't remember calling you.",neutral,neutral,neutral
+,speech,Madison,I must have heard your call anyway.,neutral,neutral,neutral
+,speech,Alexandre,"It's true, I'm finding it harder and harder to find reasons to hope.",neutral,disappointment,sadness
+,speech,Madison,Do you want to speak with me about it?,neutral,curiosity,neutral
+,speech,Alexandre,"Considering your personal situation, I would hesitate to burden you with the list of things that are getting me down.",fear,neutral,fear
+,speech,Madison,To keep fighting even when you know the war is already lost. Isn't that true courage?,neutral,curiosity,neutral
+,speech,Alexandre,I never said I was courageous. I wish I were as courageous as you.,fear,desire,fear
+,speech,Madison,"I'm not courageous. I have no choice, that's all. Unlike you. 18",fear,neutral,fear
+,speech,Alexandre,Me? I have the choice between the rope to hang myself and the gun to blow my brains out.,anger,neutral,anger
+,speech,Madison,You're right. You're really depressing.,sadness,sadness,sadness
+,speech,Alexandre,"I warned you, I'm an old fool. I don't know if this time is worse than my youth. Maybe I'm just more clear-sighted now. And clarity, in general, doesn't make one optimistic.",neutral,annoyance,neutral
+,speech,Madison,"Actually, I would like a glass of brandy.",neutral,desire,neutral
+,speech,Alexandre,Are you sure?,surprise,confusion,neutral
+,speech,Madison,"Well, you have to die from something.",sadness,neutral,neutral
+,consigne,,He pours two glasses of brandy. They toast.,,,
+,speech,Alexandre,"To your health! Sorry, I think I've put my foot in it again.",sadness,remorse,anger
+,consigne,,She smiles. They empty their glasses.,,,
+,speech,Madison,It would wake the dead.,neutral,neutral,neutral
+,speech,Alexandre,"I haven't been drinking for about ten years. I don't know how long this bottle has been there. But alcohol ages well, doesn't it? Better than alcoholics, anyway.",neutral,confusion,neutral
+,speech,Madison,"Still, it tastes strange. Are you sure it's cognac?",surprise,curiosity,surprise
+,consigne,,He looks at the bottle.,,,
+,speech,Alexandre,I think so. But I don't remember very well what cognac tastes like anymore.,neutral,confusion,neutral
+,speech,Madison,I would have liked to meet the young man you were.,joy,desire,neutral
+,speech,Alexandre,What young man?,surprise,curiosity,surprise
+,speech,Madison,The one who was in love with that woman in the photo. And who still had a passion for life.,neutral,love,neutral
+,speech,Alexandre,I don't know if you would have liked it.,neutral,confusion,neutral
+,speech,Madison,He was probably full of enthusiasm and hope.,neutral,optimism,neutral
+,speech,Alexandre,"Full of ambition, at least.",neutral,neutral,neutral
+,speech,Madison,Do you really have no friends left?,surprise,curiosity,sadness
+,speech,Alexandre,"I can't stand old people, so I avoid people of my own age as much as possible. I don't want to be constantly confronted with a mirror reflecting my own decrepitude.",neutral,disapproval,neutral
+,speech,Madison,I'm sure you haven't stopped writing all these years. 19,neutral,neutral,neutral
+,speech,Alexandre,Is that why you made me drink? Hoping that I would confide in you.,neutral,neutral,surprise
+,speech,Madison,A writer is meant to write.,neutral,neutral,neutral
+,speech,Alexandre,"Alright, fair enough. I kept writing. But I won't publish anything anymore.",neutral,approval,neutral
+,speech,Madison,Why not?,neutral,confusion,neutral
+,speech,Alexandre,"I told you. I don't write to be read anymore. Maybe by future generations. But to today's readers, I have nothing left to say.",neutral,neutral,neutral
+,speech,Madison,Not even to me?,anger,neutral,surprise
+,speech,Alexandre,I don't know you. What makes you think I have something to say to you?,surprise,curiosity,surprise
+,speech,Madison,Maybe we have more in common than you think.,neutral,neutral,neutral
+,speech,Alexandre,Except for the fact that both of us are condemned to a short time frame?,disgust,neutral,neutral
+,speech,Madison,Tell me at least what your book is about.,neutral,curiosity,neutral
+,consigne,,He hesitates for a moment.,,,
+,speech,Alexandre,It's a very personal novel.,neutral,neutral,neutral
+,speech,Madison,"Autobiographical, then.",neutral,neutral,neutral
+,speech,Alexandre,"Let's say it's autofiction, as they say nowadays.",neutral,neutral,neutral
+,speech,Madison,Is that why you don't want to publish it? Because it's too personal?,anger,confusion,surprise
+,speech,Alexandre,"I prefer to consider this manuscript as a diary. I don't like exhibitionism. If I publish it, people will say that I've become a writer of cheesy romance novels in my old age.",disgust,disapproval,neutral
+,speech,Madison,I thought you didn't care what people think of you.,surprise,neutral,surprise
+,speech,Alexandre,I guess I haven't reached that stage of wisdom just yet.,neutral,disapproval,neutral
+,speech,Madison,Because it is impossible.,neutral,neutral,neutral
+,speech,Alexandre,"Don't waste your time writing a thesis about me. It's not worth it, believe me.",anger,disapproval,anger
+,speech,Madison,It is important to me.,joy,approval,neutral
+,speech,Alexandre,"But why? Live your life, damn it! Especially if it could end any minute now. Besides, I don't believe you, and you still haven't shown me that medical file. 20",anger,annoyance,anger
+,speech,Madison,"If you don't believe me, why did you agree to talk to me anyway?",anger,curiosity,anger
+,speech,Alexandre,"I thought that to come up with such a story, you must have a good reason. What is it?",neutral,curiosity,neutral
+,speech,Madison,It's a bit complicated.,neutral,confusion,neutral
+,speech,Alexandre,So you were lying. And your heart is fine.,neutral,neutral,neutral
+,speech,Madison,Let's just say that. my heart problems are more symbolic in nature.,sadness,sadness,neutral
+,speech,Alexandre,Why did you tell me this?,surprise,curiosity,surprise
+,speech,Madison,"To gain your sympathy, I imagine. You wanted to kick me out.",anger,neutral,anger
+,speech,Alexandre,I could do it now.,neutral,optimism,neutral
+,speech,Madison,But you won't.,neutral,neutral,neutral
+,speech,Alexandre,And why is that?,surprise,curiosity,surprise
+,speech,Madison,Because I intrigue you.,neutral,neutral,neutral
+,speech,Alexandre,You say that your heart problems are symbolic. You mean. a broken heart?,sadness,neutral,sadness
+,speech,Madison,"In a way. Like you, I have suffered from the absence of a loved one.",sadness,sadness,sadness
+,speech,Alexandre,And what does that have to do with me?,neutral,curiosity,sadness
+,speech,Madison,"I'll tell you soon, I promise. But before that, I would like to ask you a favor.",neutral,desire,neutral
+,speech,Alexandre,Go on.,neutral,neutral,neutral
+,speech,Madison,I want to read this manuscript.,sadness,desire,neutral
+,speech,Alexandre,Why would I entrust it to you?,anger,curiosity,neutral
+,speech,Madison,"Because deep down, you want someone to read it and give you their opinion. An author always writes to be read. and recognized. To be loved.",neutral,love,neutral
+,speech,Alexandre,The only person I would have wanted to be loved by. disappeared from my life over forty years ago.,sadness,sadness,sadness
+,speech,Madison,Where is this manuscript?,neutral,curiosity,neutral
+,consigne,,He points to a folder on his desk.,,,
+,speech,Alexandre,It's right there.,neutral,approval,neutral
+,speech,Madison,Can I see it?,surprise,curiosity,neutral
+,consigne,,"She makes a gesture to take it, but he stops her.",,,
+,speech,Alexandre,No!,anger,disapproval,anger
+,consigne,,She hesitates for a moment. A flicker of sadness passes through her eyes.,,,
+,speech,Madison,"Well, you're right after all. You really are an old grump. I'll let you wallow in self-pity.",anger,approval,disgust
+,consigne,,She is about to leave.,,,
+,speech,Alexandre,Wait.,neutral,neutral,neutral
+,consigne,,"He hesitates, then takes the manuscript and hands it to her.",,,
+,speech,Alexandre,"I authorize you to read it, on one condition.",neutral,neutral,neutral
+,speech,Madison,I'm listening.,neutral,neutral,neutral
+,speech,Alexandre,This manuscript doesn't leave this place.,neutral,neutral,neutral
+,speech,Madison,Are you afraid I'll make a copy and publish it without your permission?,fear,curiosity,anger
+,speech,Alexandre,Take it or leave it.,neutral,neutral,neutral
+,consigne,,She takes the file and weighs it in her hand.,,,
+,speech,Madison,It will take me some time.,neutral,neutral,neutral
+,speech,Alexandre,I'm in no hurry. And you?,surprise,neutral,neutral
+,speech,Madison,Neither am I.,neutral,neutral,neutral
+,speech,Alexandre,"I have a guest room, if you want. I hardly use it anymore. All my friends are dead.",neutral,sadness,sadness
+,speech,Madison,Thank you for your hospitality.,joy,gratitude,neutral
+,speech,Alexandre,I leave you to your reading.,neutral,neutral,neutral
+,speech,Alexandre,"Here you go. I should warn you, it's decaf. Don't count on it to wake you up.",neutral,neutral,neutral
+,speech,Madison,Thank you.,neutral,gratitude,neutral
+,speech,Alexandre,So you didn't manage to finish it. 22,surprise,neutral,neutral
+,speech,Madison,I've just finished it.,neutral,neutral,neutral
+,speech,Alexandre,"Already? That's not possible, you must have skipped some pages.",surprise,disapproval,surprise
+,speech,Madison,"No, I assure you.",neutral,caring,neutral
+,consigne,,He leaves. She immerses herself in reading the manuscript.Alexandre seems a little worried about the silence that follows.,,,
+,speech,Alexandre,You don't have to tell me what you think. Especially if you didn't like it.,neutral,neutral,neutral
+,speech,Madison,I devoured it from the first page to the last. I didn't close my eyes all night.,neutral,neutral,neutral
+,speech,Alexandre,Well. That's somewhat reassuring. But I didn't think I had written a suspense novel.,fear,realization,fear
+,speech,Madison,It is your best book. It radiates a humanity that was missing from all the others.,joy,admiration,joy
+,speech,Alexandre,"So I don't know if I should take that as a compliment. As for the rest of my work, anyway.",neutral,confusion,neutral
+,speech,Madison,Your other novels were brilliant. This one is moving.,joy,admiration,neutral
+,speech,Alexandre,And you noticed? The subject is directly related to the topic of your thesis.,surprise,neutral,neutral
+,speech,Madison,My thesis?,surprise,neutral,surprise
+,speech,Alexandre,"""The figure of absence in the fictional universe of Alexandre Delacroix."" Have you already forgotten?",neutral,neutral,neutral
+,speech,Madison,"No, of course not. And you are right. The story of this man who, at the age of twenty, chooses to live with only the ghost of a youthful love.",neutral,approval,neutral
+,speech,Alexandre,"One never forgets their first love. Because they long for their youth, precisely. The nostalgia of all their first times. One must remain faithful to their first love. Even if one can't always remain faithful to the first woman they loved.",neutral,neutral,neutral
+,speech,Madison,"Yes, but it's a risk. The risk of living in the past.",fear,approval,neutral
+,speech,Alexandre,"In any case, one should never give up their dreams. So you think I should publish it?",neutral,neutral,anger
+,speech,Madison,"If I say you yes, will you do it?",anger,curiosity,neutral
+,speech,Alexandre,"You are an expert on my work, after all.",neutral,admiration,neutral
+,speech,Madison,"I'm sure this novel can revive your literary career. In my opinion, it deserves a Goncourt. 23",joy,optimism,joy
+,speech,Alexandre,Don't overdo it though. I appreciate that you want to lift up my spirits. But it has to remain believable.,neutral,admiration,neutral
+,speech,Madison,"I'm completely sincere, I assure you.",neutral,approval,neutral
+,speech,Alexandre,"And perfectly objective, of course.",neutral,approval,neutral
+,speech,Madison,Do you doubt it?,surprise,curiosity,neutral
+,speech,Alexandre,I don't know. Something tells me that you didn't just come to Paris to do a thesis on an outdated writer.,surprise,confusion,neutral
+,consigne,,A pause.,,,
+,speech,Madison,Indeed. I didn't tell you the whole truth.,neutral,approval,neutral
+,speech,Alexandre,You're not suffering from heart disease. You don't have a cat. I imagine you are not a student either.,neutral,neutral,neutral
+,speech,Madison,"What is true is that I am American, and that I came to France to meet you.",joy,neutral,neutral
+,speech,Alexandre,You've been living in the apartment across from mine for several weeks now. Why now?,surprise,neutral,surprise
+,speech,Madison,"Yesterday morning, through the window, I saw you hang that rope from the ceiling. Then take out that gun.",neutral,neutral,neutral
+,speech,Alexandre,I didn't find a place to hang the rope.,neutral,neutral,neutral
+,speech,Madison,I was afraid for you. Afraid you would disappear before I could get to know you. I rushed to your place. and I improvised.,fear,fear,fear
+,speech,Alexandre,"It was very convincing. You should be an actress. But you know, in life as well as in theater, one must be wary of what we see behind the curtains. It's sometimes just an illusion. The projection of our own fantasies.",fear,approval,neutral
+,speech,Madison,The rope wasn't for you to hang yourself?,neutral,neutral,surprise
+,speech,Alexandre,What if I just wanted to. hang a chandelier?,neutral,curiosity,neutral
+,speech,Madison,And the gun?,surprise,neutral,neutral
+,consigne,,He takes out the weapon from the drawer.,,,
+,speech,Alexandre,"It could be a toy. A fake weapon to scare off burglars. Or just a lighter.  A lighter that I don't need anymore, actually. I'm so afraid of dying that I quit smoking. But I always keep a pack of cigarettes within reach, just to prove to myself that I can resist temptation. I've also quit alcohol and even caffeine. That's how much I take care of my health.",fear,fear,neutral
+,speech,Madison,So you didn't plan to put an end to your life? 24,surprise,curiosity,surprise
+,speech,Alexandre,"Not yet, maybe the desire. To be honest, it's the only desire I have left. The desire to end it all. But to commit suicide, you need courage. And I don't have that kind of courage. Or maybe I'm not so desperate yet. And what's the point anyway? I'll wait for my turn, like everyone else.",neutral,confusion,sadness
+,speech,Madison,So our meeting was just a misunderstanding?,neutral,confusion,neutral
+,speech,Alexandre,I find it hard to believe that someone would cross the Atlantic just to interview a writer like me. And I don't believe in coincidence. So why are you here?,surprise,curiosity,surprise
+,speech,Madison,"I'll tell you, but first of all, thank you for honoring me by being the first reader of this manuscript.",joy,gratitude,joy
+,speech,Alexandre,Did you really like it?,surprise,curiosity,joy
+,speech,Madison,It's a masterpiece. But I have a small remark.,neutral,admiration,joy
+,speech,Alexandre,Here we go. I was expecting that. I'm listening.,surprise,neutral,neutral
+,speech,Madison,I didn't find the ending quite convincing.,surprise,disapproval,neutral
+,speech,Alexandre,You're right. It's an unfinished story. As if an epilogue lacked.,neutral,approval,neutral
+,speech,Madison,I could help you find it.,neutral,caring,neutral
+,speech,Alexandre,"Do you write too? Did you come here to propose a collaboration? It's true, I'm starting to lack some inspiration, but I have to warn you, I'm not yet at the point of looking for a ghostwriter to write my books for me.",neutral,curiosity,neutral
+,speech,Madison,"No, I didn't come for that.",neutral,disapproval,neutral
+,speech,Alexandre,And this thesis story is also a lie. So it's not just for the privilege of a literary chat with me that you played this charade.,disgust,neutral,neutral
+,speech,Madison,I think the answer is in the manuscript I've just read. The window across the courtyard. Why that title?,surprise,confusion,surprise
+,speech,Alexandre,The window across the courtyard. it is the one in the apartment you live in now. It's where the woman I once loved used to live.,neutral,love,neutral
+,speech,Madison,And who has been haunting your thoughts since she went away.,fear,neutral,neutral
+,speech,Alexandre,"I often dreamed that she would come back. That one day she would push my door, just like you did today.",surprise,desire,joy
+,speech,Madison,That's why you always leave it open. 25,neutral,neutral,neutral
+,speech,Alexandre,"Sometimes, I thought I saw a shadow behind the curtains of the window across. When you moved in, and I saw lights at night, I imagined it was her.",fear,neutral,fear
+,speech,Madison,It was just me.,neutral,neutral,neutral
+,speech,Alexandre,"You look a bit like her. That's why when I saw you earlier for the first time, I cringed. For a moment I thought it was her when she was twenty. And then I remembered that today she would be about the same age as me.",surprise,realization,neutral
+,speech,Madison,"It's true, I look like her.",neutral,approval,neutral
+,speech,Alexandre,Don't tell me you're her ghost.,fear,neutral,fear
+,speech,Madison,"No, I'm very much real.",neutral,approval,neutral
+,speech,Alexandre,"But there is something else, isn't there?",neutral,confusion,neutral
+,speech,Madison,Yes.,neutral,approval,neutral
+,speech,Alexandre,Why did you say her face looked familiar to you?,surprise,curiosity,surprise
+,consigne,,A pause.,,,
+,speech,Madison,I'm her granddaughter.,neutral,neutral,neutral
+,consigne,,Silence.,,,
+,speech,Alexandre,Her granddaughter?,surprise,neutral,surprise
+,speech,Madison,"When she left for Afghanistan, she was pregnant. She found out shortly after she left.",disgust,neutral,neutral
+,speech,Alexandre,Pregnant? Me?,surprise,curiosity,surprise
+,speech,Madison,Yes.,neutral,approval,neutral
+,speech,Alexandre,Why didn't she tell me anything?,anger,curiosity,neutral
+,speech,Madison,You said it yourself. It was a different time. She didn't want to impose the child on you. She thought she could raise it on her own. And that's what she did.,neutral,neutral,neutral
+,speech,Alexandre,I never knew anything about it.,disgust,neutral,neutral
+,speech,Madison,"Me neither, at least not until recently.",neutral,neutral,neutral
+,speech,Alexandre,When did you find out?,surprise,curiosity,neutral
+,speech,Madison,"A few years ago. When I turned eighteen, my grandmother told me this story. Your love story.",joy,love,neutral
+,speech,Alexandre,"I do. Curiously, after all the lies you told me, I have no doubt about that.",neutral,annoyance,neutral
+,speech,Madison,"I understand that it is quite difficult to hear. Take your time. You don't owe me anything. If that's what you want, I'll leave as I came, and you'll never hear from me again.",neutral,neutral,anger
+,speech,Alexandre,"Stay, please.",neutral,neutral,neutral
+,speech,Madison,I'm here.,neutral,neutral,neutral
+,consigne,,A pause.,,,
+,speech,Alexandre,"I can understand that at the time, she didn't tell me anything. But what about after?",neutral,confusion,neutral
+,speech,Madison,"I'm telling you again. She didn't want to impose this fatherhood on you. And after that, she had lost track of you.",neutral,neutral,neutral
+,speech,Alexandre,"Soon after she left, I moved out of this apartment. I couldn't bear to see that window every day that reminded me of her absence.",sadness,sadness,neutral
+,speech,Madison,She sent you a letter a long time ago. The letter was returned to her with the mention “Does not reside at this address”.,neutral,neutral,neutral
+,speech,Alexandre,"I came back to live here a few years ago. To write this book, precisely. As a way to exorcise the past.",fear,neutral,neutral
+,speech,Madison,But her ghost has never stopped haunting you.,fear,neutral,fear
+,speech,Alexandre,"I have known other women, of course. But I will have lived my whole life in the memory of that first love. I have never loved anyone else.",neutral,love,neutral
+,speech,Madison,She didn't know if you were married. If you had founded a family on your side.,surprise,neutral,neutral
+,speech,Alexandre,That was not the case.,neutral,disapproval,neutral
+,speech,Madison,She heard about you when you became a famous writer.,joy,neutral,neutral
+,speech,Alexandre,It was also with the hope of winning her back that I did everything to succeed in the literary world. And so that she could find me more easily thanks to my fame. She could have contacted me at that time.,joy,gratitude,neutral
+,speech,Madison,"You would have thought she was coming back to you out of self- interest, now that you had become a successful author. That's what she feared, anyway.",fear,neutral,fear
+,speech,Alexandre,So I have a daughter.,neutral,neutral,neutral
+,consigne,,A moment of silence.,,,
+,speech,Madison,"About my illness, too, I only half-lied to you. It was my mother who had a weak heart. She died shortly after I was born, without even knowing who her father was.",sadness,sadness,sadness
+,speech,Alexandre,I'm sorry to hear that.,sadness,remorse,sadness
+,speech,Madison,"It was my grandmother who raised me. And when I reached 18, she wanted me to know who my grandfather was. But she did not dare to contact you again.",anger,neutral,neutral
+,speech,Alexandre,So you decided to do it for her. By coming to Paris.,neutral,neutral,neutral
+,speech,Madison,"I couldn't see myself telling you all this in a letter or over the phone. I wanted to meet you first. You had a reputation for being grumpy. If I hadn't found you likable, I wouldn't have told you anything. And I would have gone back to New York.",anger,neutral,anger
+,speech,Alexandre,But I welcomed you so well that you decided to adopt me.,joy,love,joy
+,speech,Madison,And above all I read this manuscript. I understood that you had never forgotten this woman. My grandmother.,surprise,realization,neutral
+,speech,Alexandre,You did well to come. and tell me the end of this story.,neutral,admiration,neutral
+,speech,Madison,It's not quite the end yet.  Are you okay?,surprise,caring,neutral
+,consigne,,He chooses humor to hide his emotions.,,,
+,speech,Alexandre,"I was already feeling down about my age, and now you're telling me I'm a grandfather.",sadness,neutral,surprise
+,speech,Madison,Doesn't that make you happy?,joy,joy,joy
+,speech,Alexandre,"Of course it does. but I'm also learning at the same time that I have a daughter, and that she's dead.",sadness,realization,sadness
+,speech,Madison,But here I'm . I hardly knew my mother. I'm finding a grandfather.,surprise,surprise,surprise
+,consigne,,Alexander takes the manuscript.,,,
+,speech,Alexandre,"I will publish this book. I will dedicate it to this daughter I will never know. And to this granddaughter who one day showed up at my door, forcing her way in.",neutral,neutral,joy
+,speech,Madison,The door was open.,surprise,neutral,neutral
+,speech,Alexandre,But I still need to find a real ending for this novel.,neutral,desire,neutral
+,speech,Madison,"For that, I can help you, as I told you.",neutral,caring,neutral
+,speech,Alexandre,Alexandre –I don't know if my heart can handle any more surprises from you for much longer. 28,surprise,confusion,sadness
+,speech,Madison,"There is one last thing, actually.",neutral,neutral,neutral
+,speech,Alexandre,Go ahead. I'm already at a point where I can't be more surprised.,surprise,surprise,neutral
+,speech,Madison,My grandmother is still alive.,sadness,neutral,neutral
+,speech,Alexandre,And where does she live now?,neutral,curiosity,neutral
+,speech,Madison,In New York.,neutral,neutral,neutral
+,speech,Alexandre,So you'll give her a fond kiss from me.,neutral,love,joy
+,speech,Madison,You can do it yourself.,neutral,approval,neutral
+,speech,Alexandre,Are you taking me back to America with you?,surprise,curiosity,surprise
+,speech,Madison,My grandmother came with me. She's in the apartment across the courtyard.,neutral,neutral,neutral
+,consigne,,A pause. He is obviously disconcerted.,,,
+,speech,Alexandre,Now I'm really starting to get scared.,fear,fear,fear
+,speech,Madison,She is still a very beautiful woman. and she has never forgotten you. She 's read all your books.,surprise,admiration,joy
+,speech,Alexandre,But she didn't want to know about the author's life.,sadness,neutral,neutral
+,speech,Madison,You said it didn't matter.,neutral,neutral,neutral
+,speech,Alexandre,She's the one that is missing in this novel.,neutral,neutral,neutral
+,speech,Madison,"Yes, but she hasn't read it yet. She didn't know if you still remembered her. If you still loved her.",surprise,neutral,sadness
+,speech,Alexandre,I still love her. This book is the proof of that.,joy,love,joy
+,consigne,,"He looks towards the audience, towards the window across the courtyard.",,,
+,speech,Madison,So? should I tell her to come over?,surprise,curiosity,neutral
+,speech,Alexandre,She crossed the Atlantic to find me. I can cross the hallway to go to her.,neutral,neutral,neutral
+,consigne,,Alexander kisses Madison.,,,
+,speech,Madison,I'll let you go alone. You will see. Almost nothing has changed behind the window across the courtyard. And the door is still open.,neutral,neutral,neutral
