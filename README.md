@@ -38,9 +38,16 @@ pip install -r examples/emotion_conversion/requirements.txt
 ```
 Now download emoV dataset and put it in a folde named `dataset` in main folder
 
-Download the folder with all the weights for the model in this [Drive]()
+Download the folder with all the weights for the model in this [Drive]() and put them in a folder name save in the emotion conversion folder
+```
+cd fairseq/examples/emotion_conversion/save
+```
 
 After you use the notebook **generate_dataset.ipynb** to create all the audio files
+
+## NoteBook control
+
+
 
 ## Audio Example
 You can listen to some examples of audio generated
